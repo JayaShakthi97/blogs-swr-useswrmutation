@@ -1,0 +1,24 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "title": "Learn React",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Learn Redux",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Learn GraphQL",
+      "completed": false
+    }
+  ],
+  "profile": {
+    "name": "John Doe",
+    "email": "john@gmail.com",
+    "age": 30
+  }
+}
